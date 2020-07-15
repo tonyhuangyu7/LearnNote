@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tonyhuangyu7.github.io/LearnNote/tags/index.html</loc>
+    
+    <lastmod>2020-07-15T06:17:34.951Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tonyhuangyu7.github.io/LearnNote/categories/index.html</loc>
     
     <lastmod>2020-07-15T06:14:33.605Z</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://tonyhuangyu7.github.io/LearnNote/archive/index.html</loc>
-    
-    <lastmod>2020-07-09T15:14:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tonyhuangyu7.github.io/LearnNote/tags/index.html</loc>
     
     <lastmod>2020-07-09T15:14:10.000Z</lastmod>
     
